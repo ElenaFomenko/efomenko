@@ -6,7 +6,7 @@ This [PDF] (https://github.com/ElenaFomenko/efomenko/) is the main report file.
 
 ### Tableau dashboard
 
-The [Tableau dashboard] () contains the interactive dashboard and each tab includes frames from the dashboard.
+The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco_Incidents_2014/Dashboard#!/publish-confirm) includes the interactive dashboard and all its frames on the separated tabs.
 
 ### Jupiter notebook
 
