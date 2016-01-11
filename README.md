@@ -3,6 +3,7 @@
 ### PDF report
 
 This [PDF] (https://github.com/ElenaFomenko/efomenko/) is the main report file.
+* The final version of PDF file will be submitted by 3:00 pm ET
 
 ### Tableau dashboard
 
@@ -19,4 +20,4 @@ The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco
 
 [Map of incidents](http://www.arcgis.com/apps/Embed/index.html?webmap=07fd6b0ba9424e51bebb51c30fed7e0a&amp;extent=-122.537,37.700,-122.337,37.800&amp;home=true&amp;zoom=true&amp;scale=true&amp;search=true&amp;searchextent=true&amp;legend=true&amp;disable_scroll=true&amp;theme=light;basemap_gallery=true) web application on ArcGIS Online portal. 
 
-![App] (https://github.com/ElenaFomenko/efomenko/)
+![App] (http://www.arcgis.com/home/webmap/viewer.html?webmap=e603928e79194c9d8d4f22cab47f18fd&extent=-122.6373,37.6665,-122.237,37.8405)
