@@ -11,7 +11,7 @@ The [Tableau dashboard] (https://public.tableau.com/profile/publish/SanFrancisco
 
 ### Jupiter notebook
 
-[ipython code] (https://github.com/ElenaFomenko/efomenko/)
+[ipython code] (https://github.com/ElenaFomenko/efomenko/blob/master/CrimesAnalytics.ipynb)
 
 ### Maps
 
