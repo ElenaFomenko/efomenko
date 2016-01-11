@@ -3,7 +3,7 @@
 ### PDF report
 
 This [PDF] (https://github.com/ElenaFomenko/efomenko/) is the main report file.
-* The final version of PDF file will be submitted by 3:00 pm ET
+* The final version of PDF file will be submitted by January 11, 3:00 pm ET
 
 ### Tableau dashboard
 
