@@ -1,4 +1,4 @@
-# Crime Analytics: San Francisco Incidents in  summer 2014
+# San Francisco Incidents in  summer 2014
 
 ### PDF report
 
